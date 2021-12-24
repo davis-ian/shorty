@@ -36,9 +36,7 @@ def url_redirect(request, short):
 
     new_data = Click()
     new_data.urlitem = link
-    new_data.username = m['USERNAME']
-    new_data.computer_name = m['COMPUTERNAME']
-    new_data.os = m['OS']
+    
     
     new_data.save()   
     link.save()
