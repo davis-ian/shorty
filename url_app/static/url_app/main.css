@@ -44,7 +44,8 @@ a {
 .wrapper {
     padding: 2em;
     padding-bottom: 4em;
-    
+    border: 2px solid yellow;
+    width: 100%
 }
 
 .gen {
