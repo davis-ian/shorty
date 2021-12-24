@@ -15,7 +15,8 @@
     <body>
         <div class='wrapper'>
             <h1>Welcome to Shorty.</h1>
-            <p>Enter URL to generate personalized short code</p>
+            <p>Enter URL to generate</p>
+            <p>personalized short code</p>
                 <form action="{% url 'url_app:short' %} " method="post">
                     {% csrf_token %}
                     <div class='gen'>
