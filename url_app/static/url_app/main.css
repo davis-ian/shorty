@@ -18,6 +18,7 @@ body {
     color: #D9411E;
     Font-family: 'Josefin Sans', sans-serif;
     border: 2px solid red;
+    height: 100vh;
 }
 h1 {
     font-family: 'Lobster', cursive;
@@ -29,12 +30,13 @@ button {
     padding: .5em;
     border-radius: 20px;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 20px;
+    /* font-size: 20px; */
+    font-size: 40px;
     color: white;
 }
 input {
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 20px;
+    font-size: 40px;
 }
 a {
     color: #D9411E;
