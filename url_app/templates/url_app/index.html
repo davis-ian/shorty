@@ -22,7 +22,7 @@
                     </div>
                 </form>
                 {% if code %}
-                <p>Code: </p> <p>http://shorty-url-app.herokuapp.com/short/s/{{code}}</p>
+                <p>Code: </p> <p>http://shorty-url-app.herokuapp.com/s/{{code}}</p>
                 
                 <h3><a href="{% url 'url_app:redirect' code %}">Let's Go.</a> </h3>
 
