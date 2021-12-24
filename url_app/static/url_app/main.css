@@ -22,7 +22,7 @@ body {
 }
 h1 {
     font-family: 'Lobster', cursive;
-    font-size: 40px;
+    
 }
 button {
     background-color: #D9411E;
@@ -31,12 +31,12 @@ button {
     border-radius: 20px;
     font-family: 'Josefin Sans', sans-serif;
     /* font-size: 20px; */
-    font-size: 40px;
+    
     color: white;
 }
 input {
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 40px;
+    
 }
 a {
     color: #D9411E;
