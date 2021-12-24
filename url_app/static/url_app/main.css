@@ -6,7 +6,7 @@ html {
 }
 img {
     display: block;
-    max-width: 100%
+    max-width: 100%;
 }
 body {
     text-align: center;
@@ -28,14 +28,11 @@ button {
     border:none;
     padding: .5em;
     border-radius: 20px;
-    font-family: 'Josefin Sans', sans-serif;
-     
+    font-family: 'Josefin Sans', sans-serif;     
     color: white;
 }
 input {
-    font-family: 'Josefin Sans', sans-serif;
-    
-    
+    font-family: 'Josefin Sans', sans-serif;    
 }
 a {
     color: #D9411E;
@@ -44,8 +41,7 @@ a {
 }
 .wrapper {
     padding: 2em;
-    padding-bottom: 4em;
-    
+    padding-bottom: 4em;    
     width: 100%
 }
 
