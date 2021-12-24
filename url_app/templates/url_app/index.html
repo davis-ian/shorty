@@ -22,8 +22,8 @@
                     </div>
                 </form>
                 {% if code %}
-                <p>Code: </p>{{code}}
-
+                <p>Code: </p> <p>https://127.0.0.1:8000/s/{{code}}</p>
+                
                 <h3><a href="{% url 'url_app:redirect' code %}">Let's Go.</a> </h3>
 
                 {% endif %}
