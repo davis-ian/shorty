@@ -19,6 +19,7 @@ body {
     Font-family: 'Josefin Sans', sans-serif;
     border: 2px solid red;
     height: 100vh;
+    font-size: 3em;
 }
 h1 {
     font-family: 'Lobster', cursive;
@@ -30,7 +31,7 @@ button {
     padding: .5em;
     border-radius: 20px;
     font-family: 'Josefin Sans', sans-serif;
-    /* font-size: 20px; */
+    
     
     color: white;
 }
